@@ -1,6 +1,10 @@
-# my-project
+# Vuex-fetchAPI 
+**exercise Project**
+>A. 資料綁定、樣版、組件、Watch、Computed...等基礎單元實作  
 
-> A Vue.js project
+>B. vue-resource、axios GET資料
+
+>C. 使用async異步函數 接取fetch api reponse  再將結果丟回 vuex store  
 
 ## Build Setup
 
@@ -18,4 +22,3 @@ npm run build
 npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
